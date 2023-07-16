@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.edu.utxj.ti.idgs.ddi_tarea09_200291.app-mergeDebugResources-68:/values-sw210dp-v13/values-sw210dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\db1018ccc9b37325951ca558f4f8e4ba\\transformed\\wear-1.2.0\\res\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,198,265",
+                        "endColumns": "70,71,66,54",
+                        "endOffsets": "121,193,260,315"
+                    }
+                }
+            ]
+        }
+    ]
+}

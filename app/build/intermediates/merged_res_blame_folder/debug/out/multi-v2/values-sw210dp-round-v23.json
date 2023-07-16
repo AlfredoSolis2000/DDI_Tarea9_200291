@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.edu.utxj.ti.idgs.ddi_tarea09_200291.app-mergeDebugResources-68:/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\0d95e66ff23f141486d95948cb7dd19b\\transformed\\tiles-renderer-1.1.0-beta01\\res\\values-sw210dp-round-v23\\values-sw210dp-round-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "213"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "680",
+                        "endLines": "15",
+                        "endColumns": "10",
+                        "endOffsets": "838"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\db1018ccc9b37325951ca558f4f8e4ba\\transformed\\wear-1.2.0\\res\\values-sw210dp-round-v23\\values-sw210dp-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,118,186,251,322,385,448,513,599",
+                        "endColumns": "62,67,64,70,62,62,64,85,80",
+                        "endOffsets": "113,181,246,317,380,443,508,594,675"
+                    }
+                }
+            ]
+        }
+    ]
+}

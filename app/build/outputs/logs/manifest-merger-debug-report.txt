@@ -1,0 +1,569 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [com.google.android.horologist:horologist-compose-tools:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\410db24fd1824e831af0c5cba75a729d\transformed\horologist-compose-tools-0.1.5\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\27e5fd6e9b34de66753b31927cb1d978\transformed\compose-navigation-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\095edba9216644c570701e62988ab9cc\transformed\navigation-compose-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\595d3c6093a11bb7381a4e7c795f2c73\transformed\activity-compose-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear.compose:compose-material:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a0f6944ab0f16df6d5f42e8a3754d7d3\transformed\compose-material-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a2c53857badec41cba8e7b816eb46d54\transformed\compose-foundation-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\516060cf2e6962856c7d6a78501512db\transformed\material-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ea98d6b7149e69f2ecd7322846c11bae\transformed\material-ripple-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-compose:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7d35c417cf49e5c953438ee10cbeb6df\transformed\coil-compose-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\915c41d00127176d654e4cb45e1936b2\transformed\coil-compose-base-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\6f454f150638e80f02a8843cd0701d14\transformed\foundation-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a436a0514fe4d8723c2b45060ded64c9\transformed\animation-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\dbed9760f7a217fd8b9d3b5a29474152\transformed\foundation-layout-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\bb9749d48b02373888edc4c2cdbf67d9\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ab45a584fc82ed2af993884ccfef9212\transformed\animation-core-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cb9aef5af5cc3833a26a9d33c8941115\transformed\material-icons-core-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\ee33193d657c8e4ea653162a82001fb6\transformed\lifecycle-viewmodel-compose-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] C:\Users\alfre\.gradle\caches\transforms-3\3b7dabaafad7ce6f0495358bdf1f321b\transformed\accompanist-drawablepainter-0.23.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\0b1236ad4808bb0da3ecf66abe67c5e1\transformed\ui-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\c188b6c57d9ae695b2830c3de251d110\transformed\navigation-runtime-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\50860f20ae43112ba03a21402c4a5b38\transformed\navigation-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\50bf539231ff7909364e3f79a4a822da\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\fe3a3dd2b9d49ee644d003e3bff3bf93\transformed\navigation-common-ktx-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\0f136a19fa8a716371ae38aef15d746f\transformed\navigation-common-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\961adf79b734608712f0469ec880f3c7\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\95d4a662855331463b8b449f08970209\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a76d5e01ba02a5e2c35aa7f87684bd02\transformed\ui-text-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\f55887d3518eb8345f775c9ee0fe343f\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\41a2e2a64b18e09cf913c2793f8827f0\transformed\ui-graphics-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9e81bd660f3e609eb84482f951e9d692\transformed\ui-unit-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9cabf1377e77f53ff7f29dabbed66cae\transformed\ui-geometry-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\4d453a0cecffa823999c6d03feead84c\transformed\runtime-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear.tiles:tiles-renderer:1.1.0-beta01] C:\Users\alfre\.gradle\caches\transforms-3\0d95e66ff23f141486d95948cb7dd19b\transformed\tiles-renderer-1.1.0-beta01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\b9c75a45f64f9a966e405a1582272134\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\ce1ee6da84bbcc02de2256ac3fe1e40e\transformed\watchface-complications-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7ecbca419ed7daa8ea4c0f8b5045ab45\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88e8cccc7d08d97e49690a6d8fa65c50\transformed\play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9c079c150623b88e9f18658a271b8c0e\transformed\play-services-wearable-18.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\alfre\.gradle\caches\transforms-3\c4b845fc60dde0da0bf1ba057777fed7\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\47d8e05f707693cbdfcc5d2e18a9bc52\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7eb08d94a7e52b1b04728e8c1646837d\transformed\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\6f49f6ceebb197fb36f1a6d334fec1f5\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\alfre\.gradle\caches\transforms-3\5a27e053f940a6da6b501805ae93be4e\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6bedd9a12e2525610616452f89ecc139\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\35cb2d249e0ec82c601a246f5e66c3a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\08069ba15e7a961e65ea5609240343e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8ff837bdf5607f71330eb18335f67967\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6694b81dd04d243fe4cb23acf87798ef\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\a8d507805d82dd42460f5f55694079f3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\1e54b4fa33d0e6606c97cc3d3edc6e06\transformed\coil-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\97301ac274430ac29e9c58d50c153976\transformed\coil-base-2.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\92c6311a482801d2e4c2e910a7b4a7cb\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e9fc6f01a2fc48c6b67a7c47a11161ae\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\8daa14b442b20da6c83b38637238bdc2\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\573cbd9e2500d48b1485312928906407\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\15928253112e99d6b11ae711607423d5\transformed\tiles-material-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\d1544878840608569155a280d74b0765\transformed\ui-util-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e7747f34d6bf066733c76362db09341\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6bcc2427febfe9f8115c692f8571da1a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88bb993d4f3e7d6b5341a04231b7c782\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4245ddc2c768048593a3ce51e6b7bd78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9d8e443db020ab795aa65746c91efe26\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8f1c462e8a702d90726441b538e481d6\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\25947e5823c5fa265ea7f86498c66cb6\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7f00563d29ebddce053ee76c4f314e0e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\75bf569b2cf051121319543baa03ca5e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\alfre\.gradle\caches\transforms-3\3f203cc89ffa656f309772a57f9511f0\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\bc41962de3d8cc814d9971e97884dd49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a3be38e365a85c9bec3c3861f245aa40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\783ae696346270a5ef5b028cd113ffbb\transformed\lifecycle-service-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\97ff658afeb5292962d493183da35f42\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\3e7325c0c7bff5c654942138d0deaed8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\8519f2e3a5220b9059db35c1e36dc140\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1ccd9b62fad71c55dcafe4c0cfeb7e5e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\620cc9b5799c5c46f2dbbdbfa7a95dc7\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\887b750d2e1f6bd321642ef26d987a37\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e9320873c3e158e63dae7738060ad7a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\91616649a0bbe6fa4f3c475207172830\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8366e08a87e71a0da958c6fc88525c3f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9a985b56205ea3f71ce6daf27b5e7b10\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\036684e43e6a425c06bc530e8b037153\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\59f76343e8e9d419924c221cce693391\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6524e8dab829d7e19fa075a73081c691\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\alfre\.gradle\caches\transforms-3\2be91ff78f9689a0b56b35e903714b0b\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\cb1e9b10b5c9d252849fef8096f0a8af\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+	package
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:1-72:12
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:4:5-64
+MERGED from [com.google.android.horologist:horologist-compose-tools:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\410db24fd1824e831af0c5cba75a729d\transformed\horologist-compose-tools-0.1.5\AndroidManifest.xml:24:5-64
+MERGED from [com.google.android.horologist:horologist-compose-tools:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\410db24fd1824e831af0c5cba75a729d\transformed\horologist-compose-tools-0.1.5\AndroidManifest.xml:24:5-64
+MERGED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:30:5-64
+MERGED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:4:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:7:5-94
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:7:22-91
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:12:5-70:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88e8cccc7d08d97e49690a6d8fa65c50\transformed\play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88e8cccc7d08d97e49690a6d8fa65c50\transformed\play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9c079c150623b88e9f18658a271b8c0e\transformed\play-services-wearable-18.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9c079c150623b88e9f18658a271b8c0e\transformed\play-services-wearable-18.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\alfre\.gradle\caches\transforms-3\c4b845fc60dde0da0bf1ba057777fed7\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\alfre\.gradle\caches\transforms-3\c4b845fc60dde0da0bf1ba057777fed7\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\47d8e05f707693cbdfcc5d2e18a9bc52\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\47d8e05f707693cbdfcc5d2e18a9bc52\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\887b750d2e1f6bd321642ef26d987a37\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\887b750d2e1f6bd321642ef26d987a37\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:14:9-37
+	android:allowBackup
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:17:9-59
+service#mx.edu.utxj.ti.idgs.ddi_tarea09_200291.complication.MainComplicationService
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:18:9-33:19
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:21:13-55
+	android:exported
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:22:13-99
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:19:13-65
+intent-filter#action:name:android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:23:13-25:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:24:17-116
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:24:25-113
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:27:13-29:46
+	android:value
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:29:17-43
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:28:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:30:13-32:37
+	android:value
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:32:17-34
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:31:17-92
+service#mx.edu.utxj.ti.idgs.ddi_tarea09_200291.tile.MainTileService
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:34:9-46:19
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:37:13-47
+	android:exported
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:38:13-91
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:35:13-49
+intent-filter#action:name:androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:39:13-41:29
+action#androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:40:17-88
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:40:25-85
+meta-data#androidx.wear.tiles.PREVIEW
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:43:13-45:61
+	android:resource
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:45:17-58
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:44:17-59
+uses-library#com.google.android.wearable
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:48:9-50:39
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:25:9-27:40
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:49:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:56:13-66
+activity#mx.edu.utxj.ti.idgs.ddi_tarea09_200291.presentation.MainActivity
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:59:9-69:20
+	android:label
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:62:13-45
+	android:exported
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:61:13-36
+	android:theme
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:63:13-63
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:60:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:64:13-68:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml:67:27-74
+uses-sdk
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.horologist:horologist-compose-tools:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\410db24fd1824e831af0c5cba75a729d\transformed\horologist-compose-tools-0.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.horologist:horologist-compose-tools:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\410db24fd1824e831af0c5cba75a729d\transformed\horologist-compose-tools-0.1.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:25:5-28:208
+MERGED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:25:5-28:208
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\27e5fd6e9b34de66753b31927cb1d978\transformed\compose-navigation-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\27e5fd6e9b34de66753b31927cb1d978\transformed\compose-navigation-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\095edba9216644c570701e62988ab9cc\transformed\navigation-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\095edba9216644c570701e62988ab9cc\transformed\navigation-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\595d3c6093a11bb7381a4e7c795f2c73\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\595d3c6093a11bb7381a4e7c795f2c73\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-material:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a0f6944ab0f16df6d5f42e8a3754d7d3\transformed\compose-material-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.wear.compose:compose-material:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a0f6944ab0f16df6d5f42e8a3754d7d3\transformed\compose-material-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a2c53857badec41cba8e7b816eb46d54\transformed\compose-foundation-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\a2c53857badec41cba8e7b816eb46d54\transformed\compose-foundation-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\516060cf2e6962856c7d6a78501512db\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\516060cf2e6962856c7d6a78501512db\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ea98d6b7149e69f2ecd7322846c11bae\transformed\material-ripple-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ea98d6b7149e69f2ecd7322846c11bae\transformed\material-ripple-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-compose:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7d35c417cf49e5c953438ee10cbeb6df\transformed\coil-compose-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7d35c417cf49e5c953438ee10cbeb6df\transformed\coil-compose-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\915c41d00127176d654e4cb45e1936b2\transformed\coil-compose-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\915c41d00127176d654e4cb45e1936b2\transformed\coil-compose-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\6f454f150638e80f02a8843cd0701d14\transformed\foundation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\6f454f150638e80f02a8843cd0701d14\transformed\foundation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a436a0514fe4d8723c2b45060ded64c9\transformed\animation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a436a0514fe4d8723c2b45060ded64c9\transformed\animation-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\dbed9760f7a217fd8b9d3b5a29474152\transformed\foundation-layout-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\dbed9760f7a217fd8b9d3b5a29474152\transformed\foundation-layout-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\bb9749d48b02373888edc4c2cdbf67d9\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\bb9749d48b02373888edc4c2cdbf67d9\transformed\ui-tooling-data-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ab45a584fc82ed2af993884ccfef9212\transformed\animation-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\ab45a584fc82ed2af993884ccfef9212\transformed\animation-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cb9aef5af5cc3833a26a9d33c8941115\transformed\material-icons-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cb9aef5af5cc3833a26a9d33c8941115\transformed\material-icons-core-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\ee33193d657c8e4ea653162a82001fb6\transformed\lifecycle-viewmodel-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\ee33193d657c8e4ea653162a82001fb6\transformed\lifecycle-viewmodel-compose-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] C:\Users\alfre\.gradle\caches\transforms-3\3b7dabaafad7ce6f0495358bdf1f321b\transformed\accompanist-drawablepainter-0.23.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] C:\Users\alfre\.gradle\caches\transforms-3\3b7dabaafad7ce6f0495358bdf1f321b\transformed\accompanist-drawablepainter-0.23.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\0b1236ad4808bb0da3ecf66abe67c5e1\transformed\ui-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\0b1236ad4808bb0da3ecf66abe67c5e1\transformed\ui-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\c188b6c57d9ae695b2830c3de251d110\transformed\navigation-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\c188b6c57d9ae695b2830c3de251d110\transformed\navigation-runtime-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\50860f20ae43112ba03a21402c4a5b38\transformed\navigation-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\50860f20ae43112ba03a21402c4a5b38\transformed\navigation-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\50bf539231ff7909364e3f79a4a822da\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\50bf539231ff7909364e3f79a4a822da\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\fe3a3dd2b9d49ee644d003e3bff3bf93\transformed\navigation-common-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\fe3a3dd2b9d49ee644d003e3bff3bf93\transformed\navigation-common-ktx-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\0f136a19fa8a716371ae38aef15d746f\transformed\navigation-common-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] C:\Users\alfre\.gradle\caches\transforms-3\0f136a19fa8a716371ae38aef15d746f\transformed\navigation-common-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\961adf79b734608712f0469ec880f3c7\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\961adf79b734608712f0469ec880f3c7\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\95d4a662855331463b8b449f08970209\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\95d4a662855331463b8b449f08970209\transformed\ui-tooling-preview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a76d5e01ba02a5e2c35aa7f87684bd02\transformed\ui-text-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\a76d5e01ba02a5e2c35aa7f87684bd02\transformed\ui-text-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\f55887d3518eb8345f775c9ee0fe343f\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\f55887d3518eb8345f775c9ee0fe343f\transformed\runtime-saveable-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\41a2e2a64b18e09cf913c2793f8827f0\transformed\ui-graphics-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\41a2e2a64b18e09cf913c2793f8827f0\transformed\ui-graphics-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9e81bd660f3e609eb84482f951e9d692\transformed\ui-unit-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9e81bd660f3e609eb84482f951e9d692\transformed\ui-unit-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9cabf1377e77f53ff7f29dabbed66cae\transformed\ui-geometry-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\9cabf1377e77f53ff7f29dabbed66cae\transformed\ui-geometry-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\4d453a0cecffa823999c6d03feead84c\transformed\runtime-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\4d453a0cecffa823999c6d03feead84c\transformed\runtime-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles-renderer:1.1.0-beta01] C:\Users\alfre\.gradle\caches\transforms-3\0d95e66ff23f141486d95948cb7dd19b\transformed\tiles-renderer-1.1.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.tiles:tiles-renderer:1.1.0-beta01] C:\Users\alfre\.gradle\caches\transforms-3\0d95e66ff23f141486d95948cb7dd19b\transformed\tiles-renderer-1.1.0-beta01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\b9c75a45f64f9a966e405a1582272134\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\b9c75a45f64f9a966e405a1582272134\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\66be1fbfdc2ead3c030c18b47b19202a\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\85ee502c982cbcb4c2c17bcf576abc7c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\ce1ee6da84bbcc02de2256ac3fe1e40e\transformed\watchface-complications-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\ce1ee6da84bbcc02de2256ac3fe1e40e\transformed\watchface-complications-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\fef55d8faacecd24027d9c47f9156352\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7ecbca419ed7daa8ea4c0f8b5045ab45\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7ecbca419ed7daa8ea4c0f8b5045ab45\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88e8cccc7d08d97e49690a6d8fa65c50\transformed\play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88e8cccc7d08d97e49690a6d8fa65c50\transformed\play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9c079c150623b88e9f18658a271b8c0e\transformed\play-services-wearable-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9c079c150623b88e9f18658a271b8c0e\transformed\play-services-wearable-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\alfre\.gradle\caches\transforms-3\c4b845fc60dde0da0bf1ba057777fed7\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\alfre\.gradle\caches\transforms-3\c4b845fc60dde0da0bf1ba057777fed7\transformed\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\47d8e05f707693cbdfcc5d2e18a9bc52\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\47d8e05f707693cbdfcc5d2e18a9bc52\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\db1018ccc9b37325951ca558f4f8e4ba\transformed\wear-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7eb08d94a7e52b1b04728e8c1646837d\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\7eb08d94a7e52b1b04728e8c1646837d\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\6f49f6ceebb197fb36f1a6d334fec1f5\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\6f49f6ceebb197fb36f1a6d334fec1f5\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\alfre\.gradle\caches\transforms-3\5a27e053f940a6da6b501805ae93be4e\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\alfre\.gradle\caches\transforms-3\5a27e053f940a6da6b501805ae93be4e\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6bedd9a12e2525610616452f89ecc139\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6bedd9a12e2525610616452f89ecc139\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\35cb2d249e0ec82c601a246f5e66c3a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\35cb2d249e0ec82c601a246f5e66c3a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\08069ba15e7a961e65ea5609240343e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\08069ba15e7a961e65ea5609240343e7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8ff837bdf5607f71330eb18335f67967\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8ff837bdf5607f71330eb18335f67967\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6694b81dd04d243fe4cb23acf87798ef\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\6694b81dd04d243fe4cb23acf87798ef\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\a8d507805d82dd42460f5f55694079f3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\a8d507805d82dd42460f5f55694079f3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\1e54b4fa33d0e6606c97cc3d3edc6e06\transformed\coil-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\1e54b4fa33d0e6606c97cc3d3edc6e06\transformed\coil-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\97301ac274430ac29e9c58d50c153976\transformed\coil-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\97301ac274430ac29e9c58d50c153976\transformed\coil-base-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\92c6311a482801d2e4c2e910a7b4a7cb\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\92c6311a482801d2e4c2e910a7b4a7cb\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e9fc6f01a2fc48c6b67a7c47a11161ae\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\e9fc6f01a2fc48c6b67a7c47a11161ae\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\8daa14b442b20da6c83b38637238bdc2\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\8daa14b442b20da6c83b38637238bdc2\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\573cbd9e2500d48b1485312928906407\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\573cbd9e2500d48b1485312928906407\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\15928253112e99d6b11ae711607423d5\transformed\tiles-material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\15928253112e99d6b11ae711607423d5\transformed\tiles-material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\d1544878840608569155a280d74b0765\transformed\ui-util-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\d1544878840608569155a280d74b0765\transformed\ui-util-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e7747f34d6bf066733c76362db09341\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e7747f34d6bf066733c76362db09341\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6bcc2427febfe9f8115c692f8571da1a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6bcc2427febfe9f8115c692f8571da1a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88bb993d4f3e7d6b5341a04231b7c782\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\88bb993d4f3e7d6b5341a04231b7c782\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4245ddc2c768048593a3ce51e6b7bd78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4245ddc2c768048593a3ce51e6b7bd78\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9d8e443db020ab795aa65746c91efe26\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9d8e443db020ab795aa65746c91efe26\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8f1c462e8a702d90726441b538e481d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8f1c462e8a702d90726441b538e481d6\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\25947e5823c5fa265ea7f86498c66cb6\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\25947e5823c5fa265ea7f86498c66cb6\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7f00563d29ebddce053ee76c4f314e0e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7f00563d29ebddce053ee76c4f314e0e\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\75bf569b2cf051121319543baa03ca5e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\75bf569b2cf051121319543baa03ca5e\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\alfre\.gradle\caches\transforms-3\3f203cc89ffa656f309772a57f9511f0\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\alfre\.gradle\caches\transforms-3\3f203cc89ffa656f309772a57f9511f0\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\bc41962de3d8cc814d9971e97884dd49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\bc41962de3d8cc814d9971e97884dd49\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a3be38e365a85c9bec3c3861f245aa40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\a3be38e365a85c9bec3c3861f245aa40\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\alfre\.gradle\caches\transforms-3\e16c59b1e48c239ca2936c03d482d39b\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\783ae696346270a5ef5b028cd113ffbb\transformed\lifecycle-service-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\783ae696346270a5ef5b028cd113ffbb\transformed\lifecycle-service-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\97ff658afeb5292962d493183da35f42\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\97ff658afeb5292962d493183da35f42\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\3e7325c0c7bff5c654942138d0deaed8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\3e7325c0c7bff5c654942138d0deaed8\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\8519f2e3a5220b9059db35c1e36dc140\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\8519f2e3a5220b9059db35c1e36dc140\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1ccd9b62fad71c55dcafe4c0cfeb7e5e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alfre\.gradle\caches\transforms-3\1ccd9b62fad71c55dcafe4c0cfeb7e5e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\620cc9b5799c5c46f2dbbdbfa7a95dc7\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\alfre\.gradle\caches\transforms-3\620cc9b5799c5c46f2dbbdbfa7a95dc7\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\887b750d2e1f6bd321642ef26d987a37\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\887b750d2e1f6bd321642ef26d987a37\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e9320873c3e158e63dae7738060ad7a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\7e9320873c3e158e63dae7738060ad7a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\91616649a0bbe6fa4f3c475207172830\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\91616649a0bbe6fa4f3c475207172830\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8366e08a87e71a0da958c6fc88525c3f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\8366e08a87e71a0da958c6fc88525c3f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9a985b56205ea3f71ce6daf27b5e7b10\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\9a985b56205ea3f71ce6daf27b5e7b10\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\036684e43e6a425c06bc530e8b037153\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\036684e43e6a425c06bc530e8b037153\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\59f76343e8e9d419924c221cce693391\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\alfre\.gradle\caches\transforms-3\59f76343e8e9d419924c221cce693391\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6524e8dab829d7e19fa075a73081c691\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alfre\.gradle\caches\transforms-3\6524e8dab829d7e19fa075a73081c691\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\alfre\.gradle\caches\transforms-3\2be91ff78f9689a0b56b35e903714b0b\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\alfre\.gradle\caches\transforms-3\2be91ff78f9689a0b56b35e903714b0b\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\cb1e9b10b5c9d252849fef8096f0a8af\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\cb1e9b10b5c9d252849fef8096f0a8af\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.horologist:horologist-tiles:0.1.5] C:\Users\alfre\.gradle\caches\transforms-3\03083f99dc650da1eab23524c870742f\transformed\horologist-tiles-0.1.5\AndroidManifest.xml:28:9-205
+	android:targetSdkVersion
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alfre\OneDrive\Documentos\Android\DDI_Tarea9_200291\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\cf23d7effac8da6cdf3eb6857ab21721\transformed\ui-tooling-1.3.0\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.0] C:\Users\alfre\.gradle\caches\transforms-3\13f50d7a162585dee6da2873d4bdad1c\transformed\ui-test-manifest-1.3.0\AndroidManifest.xml:24:13-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\alfre\.gradle\caches\transforms-3\19378bfa75302fa4c70739bdbda242a7\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\alfre\.gradle\caches\transforms-3\4e6cee67cae3263426e07f1b54b5b717\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+queries
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:7:5-11:15
+intent#action:name:androidx.wear.tiles.action.BIND_UPDATE_REQUESTER
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:8:9-10:18
+action#androidx.wear.tiles.action.BIND_UPDATE_REQUESTER
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:9:13-87
+	android:name
+		ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\alfre\.gradle\caches\transforms-3\0fc014cb522aff5f7f4259c8450e708f\transformed\tiles-1.1.0\AndroidManifest.xml:9:21-84
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\alfre\.gradle\caches\transforms-3\b09802ee217b0e93cf80e497c880b784\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\alfre\.gradle\caches\transforms-3\41840279151e5c4e17ed01d62808dbf0\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82

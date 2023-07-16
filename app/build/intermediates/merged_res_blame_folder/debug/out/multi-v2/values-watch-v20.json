@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "mx.edu.utxj.ti.idgs.ddi_tarea09_200291.app-mergeDebugResources-68:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alfre\\.gradle\\caches\\transforms-3\\6f49f6ceebb197fb36f1a6d334fec1f5\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

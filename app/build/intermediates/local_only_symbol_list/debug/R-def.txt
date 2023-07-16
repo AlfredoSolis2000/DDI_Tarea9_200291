@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable fate
+drawable gps
+drawable tile_preview
+id latitud
+id longitud
+layout activity_main
+mipmap ic_launcher
+string app_name
+string complication_label
+string hello_world
+string tile_label
+string title_activity_main
+string title_activity_presentation._main
