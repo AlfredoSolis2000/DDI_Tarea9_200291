@@ -22,3 +22,18 @@
 | Nombre  | Tarea 9 Geoposicionamiento  |
 | Descripción  | La aplicación "Geoposicionamiento API" para Wear OS es una herramienta útil que utiliza una API de geolocalización para proporcionar información precisa sobre la ubicación actual de los usuarios en dispositivos WearOs.  |
 |  Fecha de Carga | 21/06/23  |
+
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
